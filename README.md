@@ -1,0 +1,2 @@
+- Log into Streamlabs and use the chatbox widget
+- Paste Code into custom CSS and sabe
